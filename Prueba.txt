@@ -1,0 +1,10 @@
+int x=0;
+
+int main{
+
+do{
+x++;
+}while(x<100)
+
+x = 0;
+}
